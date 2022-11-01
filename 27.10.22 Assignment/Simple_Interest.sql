@@ -1,0 +1,11 @@
+CREATE OR ALTER function simple_Interest(@P FLOAT,@T FLOAT)
+RETURNS FLOAT AS
+BEGIN
+   DECLARE @R AS FLOAT
+   SET  @R=5
+  DECLARE @RES AS FLOAT
+  SELECT  @RES = (@P*@R*@T)/100
+  RETURN @RES
+END
+
+SELECT dbo.simple_Interest(10000.99,2.8)
