@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Movies_Info\Movies_Info\bin\Debug\Movies_Info.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Movies_Info\Movies_Info\bin\Debug\Movies_Info.exe
+C:\Users\bhattacharya.rounak\source\repos\Movies_Info\Movies_Info\bin\Debug\Movies_Info.pdb
+C:\Users\bhattacharya.rounak\source\repos\Movies_Info\Movies_Info\obj\Debug\Movies_Info.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Movies_Info\Movies_Info\obj\Debug\Movies_Info.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Movies_Info\Movies_Info\obj\Debug\Movies_Info.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Movies_Info\Movies_Info\obj\Debug\Movies_Info.exe
+C:\Users\bhattacharya.rounak\source\repos\Movies_Info\Movies_Info\obj\Debug\Movies_Info.pdb

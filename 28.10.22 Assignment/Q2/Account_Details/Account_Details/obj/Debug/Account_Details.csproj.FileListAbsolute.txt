@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Account_Details\Account_Details\bin\Debug\Account_Details.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Account_Details\Account_Details\bin\Debug\Account_Details.exe
+C:\Users\bhattacharya.rounak\source\repos\Account_Details\Account_Details\bin\Debug\Account_Details.pdb
+C:\Users\bhattacharya.rounak\source\repos\Account_Details\Account_Details\obj\Debug\Account_Details.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Account_Details\Account_Details\obj\Debug\Account_Details.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Account_Details\Account_Details\obj\Debug\Account_Details.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Account_Details\Account_Details\obj\Debug\Account_Details.exe
+C:\Users\bhattacharya.rounak\source\repos\Account_Details\Account_Details\obj\Debug\Account_Details.pdb
