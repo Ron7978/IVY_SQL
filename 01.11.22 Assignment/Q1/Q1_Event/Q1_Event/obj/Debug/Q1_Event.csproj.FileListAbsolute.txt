@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Q1_Event\Q1_Event\bin\Debug\Q1_Event.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Q1_Event\Q1_Event\bin\Debug\Q1_Event.exe
+C:\Users\bhattacharya.rounak\source\repos\Q1_Event\Q1_Event\bin\Debug\Q1_Event.pdb
+C:\Users\bhattacharya.rounak\source\repos\Q1_Event\Q1_Event\obj\Debug\Q1_Event.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Q1_Event\Q1_Event\obj\Debug\Q1_Event.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Q1_Event\Q1_Event\obj\Debug\Q1_Event.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Q1_Event\Q1_Event\obj\Debug\Q1_Event.exe
+C:\Users\bhattacharya.rounak\source\repos\Q1_Event\Q1_Event\obj\Debug\Q1_Event.pdb
